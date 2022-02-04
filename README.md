@@ -12,3 +12,5 @@ repeatedly to the end to create the correct length for this variable. This varia
 compared with the first 4 bytes of each value in the dictionary until a match is found.
 When a match is found, the last 2 bytes of the value in the dictionary are printed, which
 shows the ASCII value.
+
+Code originally submitted November 3rd, 2021 for Introduction to Computer Systems Engineering Undergraduate Course
